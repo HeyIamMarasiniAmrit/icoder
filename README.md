@@ -11,7 +11,7 @@ This is a simple blog app built using Django and Bootstrap.
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 
